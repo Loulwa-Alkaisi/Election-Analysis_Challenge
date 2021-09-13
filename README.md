@@ -4,7 +4,7 @@ In this challenge we were helping Tom in creating an election audit for the resu
 
 ## **Election-Audit Results:**
 
-![This is an image](Screen Shot 2021-09-13 at 1.10.55 AM.png)
+!["This is an image"](https://github.com/Loulwa-Alkaisi/Election-Analysis_Challenge/blob/adae6f509385645503338ae9ab9df6f6a1b164cf/Screen%20Shot%202021-09-13%20at%201.10.55%20AM.png)
 
 Votes cast in the congressional election were 369,711 votes.
 The counties in the precinct were Arapahoe, Denver and Jefferson counties. Arapahoe county had **24,801** votes that translated into **6.7%** of the votes. Denver county had **306,055** votes that translated into **82.8%** of the votes. Lastly, Jefferson county had **38,855** votes that translated into **10.5%** of the votes. These result show that Denver had the largest number of votes in this election. 
